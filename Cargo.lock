@@ -30,7 +30,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pocket-missile"
+name = "pocket_missile"
 version = "0.1.0"
 dependencies = [
  "bootloader",

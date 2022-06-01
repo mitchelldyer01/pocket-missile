@@ -22,4 +22,4 @@ cargo test
 virtualize the kernel with `qemu` __inside__ the container.
 
 [Cargo.toml]: ./Cargo.toml
-[.devcontainer]: ./devcontainer
+[.devcontainer]: ./.devcontainer
