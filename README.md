@@ -1,5 +1,8 @@
 # pocket-missile
 
+WIP OS written in Rust targeting baremetal. Designing towards a system where
+all the OS does is orchestrate processes as containers.
+
 ## Building
 
 ```bash
