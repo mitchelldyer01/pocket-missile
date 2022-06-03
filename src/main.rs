@@ -13,6 +13,8 @@ mod vga_buffer;
 pub extern "C" fn _start() -> ! {
     println!("Hello World{}", " !!");
 
+    pocket_missile::init();
+
     #[cfg(test)]
     test_main();
 
